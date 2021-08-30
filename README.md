@@ -1,4 +1,4 @@
-### Hi, I'm xinyuuLiu. 👋
+## Hi, I'm xinyuuLiu. 👋
 
 - 🔭 I am now good at Python language and C++ language.
 - 🌱 I am now engaged in artificial intelligence related work. 
